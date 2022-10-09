@@ -1,0 +1,35 @@
+h2{
+    color:indigo;
+}
+
+a{
+    color:red;
+}
+h2,h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+nav.contenedor{
+    text-decoration: underline;
+}
+
+/* selectores descendientes */
+.contenedor p{
+    font-size: 10px;
+}
+
+.contenedor>p{
+     font-family: 'Times New Roman', Times, serif;
+     color:coral;
+}
+
+/* examen */
+.contenedor a{
+    text-decoration: none;
+    color: green;
+}
+
+.titulo{
+    border:10px double red;
+}

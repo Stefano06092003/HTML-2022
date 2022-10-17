@@ -1,0 +1,53 @@
+#titulo{
+    background-color: yellowgreen;
+    text-align: center;
+    border: outset 5px red;
+    color: aqua;
+    margin: 10px;
+    padding: 30px 25px 20px 15px;
+
+
+}
+
+a[href]{
+    text-decoration: none;
+}
+
+h1{
+    background-color: burlywood;
+    color:aqua;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+   color: white;
+   background-color: brown;
+   width: 300px;
+   text-decoration: none;
+   text-align: center;
+   border: 15px;
+   padding: 5px;
+   margin: auto;
+   border-radius: 8px;
+}
+
+
+a[href]{
+    text-align: right;
+}
+
+div{
+    text-align: left;
+    border: inset 4px;
+    border-color: blue;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: aliceblue;
+    width: 400px;   
+}
+
+
+
+

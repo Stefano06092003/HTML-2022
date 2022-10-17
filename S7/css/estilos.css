@@ -1,0 +1,25 @@
+.enlaces{
+    display: block;
+    text-decoration: none;
+    background: crimson;
+    color: white;
+    padding: 40px 20px;
+}
+
+.header{
+    height: 400px;
+    background: red;
+    color: white;
+}
+
+.title{
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+#title{
+    color: gold;
+}
